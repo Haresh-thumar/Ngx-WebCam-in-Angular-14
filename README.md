@@ -1,27 +1,33 @@
-# AngularCamera
+# ngx-WebCam in Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Insatall Dependencies
 
-## Code scaffolding
+<ul>
+  <li>npm i ngx-webcam</li>
+</ul>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<br>
 
-## Build
+## Take Picture, Toggle Camera, Switch Camera
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![image](https://user-images.githubusercontent.com/100337599/209813124-94ac9b9b-793c-40a1-9d80-2dfa3c29d0cb.png)
 
-## Running unit tests
+## Capture Webcam snapshot
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![image](https://user-images.githubusercontent.com/100337599/209813251-bef6b811-00fb-4936-90e7-93410e5fc8ee.png)
 
-## Running end-to-end tests
+## Capture Multiple Image
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![image](https://user-images.githubusercontent.com/100337599/209813646-e1233705-ec58-4479-aafe-53fe64d72f4e.png)
 
-## Further help
+<br>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h2>* Build & Run Project</h2>
+<ul>
+  <li>ng build</li>
+  <li>ng serve | npm start</li>
+</ul>
